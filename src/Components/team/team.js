@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import TeamMembers from "./teamMemberCard";
 import { TeamData } from "./teamData";
 import Faculty from "./faculty.js";
+import Founder from "./founder.js";
 
 const TeamContainer = () => {
   const [data] = useState(TeamData);
@@ -21,10 +22,11 @@ const TeamContainer = () => {
             FOUNDER
           </h1>
         </div>
+       <Founder />
     
         <div className="container mx-auto pt-20 pb-6 lg:pr-6">
           <h1 className="text-white text-3xl text-center">
-            MEET OUR TEAM
+            MEET OUR EX MEMBERS
           </h1>
         </div>
 
