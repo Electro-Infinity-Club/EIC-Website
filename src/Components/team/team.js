@@ -15,6 +15,13 @@ const TeamContainer = () => {
           </h1>
         </div>
         <Faculty />
+   
+       <div className="container mx-auto pt-20 pb-6 lg:pr-6">
+          <h1 className="text-white text-3xl text-center">
+            FOUNDER
+          </h1>
+        </div>
+    
         <div className="container mx-auto pt-20 pb-6 lg:pr-6">
           <h1 className="text-white text-3xl text-center">
             MEET OUR TEAM
