@@ -26,7 +26,7 @@ const TeamContainer = () => {
     
         <div className="container mx-auto pt-20 pb-6 lg:pr-6">
           <h1 className="text-white text-3xl text-center">
-            MEET OUR EX MEMBERS
+            MEET OUR 2021-23 TEAM
           </h1>
         </div>
 
