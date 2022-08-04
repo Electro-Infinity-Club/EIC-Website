@@ -17,20 +17,39 @@ const TeamContainer = () => {
         <Faculty />
         <div className="container mx-auto pt-20 pb-6 lg:pr-6">
           <h1 className="text-white text-3xl text-center">
-            MEET OUR TEAM
+            FOUNDER OF CLUB
           </h1>
         </div>
-
-        {/* <TeamMember /> */}
+        <Founder />
+    <h1 className="text-white text-3xl text-center">
+            OUR NEW TEAM
+          </h1>
+        </div>
+        <New Team />
+        <div className="container mx-auto pt-20 pb-6 lg:pr-6">
+    
+        {/* <NewTeamMember /> */}
         <div className="w-full mt-10 px-3 pt-3 ">
           <div className="container mx-auto">
-            <div className="team-section">
+            <div className="newteam-section">
               {data.map(info => (
-                <TeamMembers key={info.id} {...info} />
+                <NewTeamMembers key={info.id} {...info} />
               ))}
             </div>
           </div>
         </div>
+         <div className="container mx-auto pt-20 pb-6 lg:pr-6">
+          <h1 className="text-white text-3xl text-center">
+            MEET OUR EX MEMBERS
+          </h1>
+        </div>
+
+        {/* <EXMEMBERS /> */}
+        <div className="w-full mt-10 px-3 pt-3 ">
+          <div className="container mx-auto">
+            <div className="team-section">
+              {data.map(info => (
+                <EXMEMBERS key={info.id} {...info} />
       </section>
     </>
   );
