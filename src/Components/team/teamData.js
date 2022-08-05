@@ -9,9 +9,7 @@ import swapnil from "../../assets/team-cores/swapnil.webp";
 import vaishnavi from "../../assets/team-cores/vaishnavi.webp";
 
 export const TeamData = [
-  {
-    id: 1,
-   },
+ 
   {
     id: 2,
     fname: "Swapnil",
