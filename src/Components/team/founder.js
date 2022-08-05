@@ -1,7 +1,7 @@
 import React from "react";
 import "./founder.css";
 // Images
-import arnav from "../../assets/team-cores/arnav.webp";
+import Arnav from "../../assets/team-cores/arnav.webp";
 const Founder = () => {
  return (
  <>
@@ -11,7 +11,7 @@ const Founder = () => {
  <div className="founder-image-container">
  <img
  className="founder-image"
- src={arnav}
+ src={Arnav}
  alt="founder"
  />
  </div>
