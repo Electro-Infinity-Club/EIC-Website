@@ -1,4 +1,4 @@
-/*.team-section-main {
+.team-section-main {
   max-width: 80%;
   margin: 0 auto;
 }
@@ -16,7 +16,7 @@
   width: 90%;
   margin: 3rem 0;
   align-self: center;
-}*/
+}
 .team-card {
   height: 22rem;
   box-shadow: rgba(0, 0, 0, 0.5) 2px 3px 4px 0px inset, rgba(0, 0, 0, 0.5) -2px -3px 4px 0px inset;
