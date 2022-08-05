@@ -1,3 +1,4 @@
+import arnav from "../../assets/team-cores/arnav.webp"
 import akash from "../../assets/team-cores/akash.webp";
 import akshada from "../../assets/team-cores/akshada.webp";
 import disha from "../../assets/team-cores/disha.webp";
@@ -9,7 +10,17 @@ import swapnil from "../../assets/team-cores/swapnil.webp";
 import vaishnavi from "../../assets/team-cores/vaishnavi.webp";
 
 export const TeamData = [
- 
+  {
+    id: 1,
+    fname: "Arnav",
+    lname: "Botre",
+    post: "Founder and President",
+    image: arnav,
+    bio: "Arnav is a pre-final year and a diligent and enthusiast student in the electronics domain.In free time he loves hiking and playing sports.",
+    instagram: "https://instagram.com/arnav_botre14?igshid=YmMyMTA2M2Y=",
+    linkedin: "https://www.linkedin.com/in/arnav-botre-b2a7591b2",
+    email: "arnavbotre@gmail.com"
+  }
   {
     id: 2,
     fname: "Swapnil",
