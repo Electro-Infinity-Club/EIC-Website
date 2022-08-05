@@ -24,22 +24,24 @@ const TeamContainer = () => {
         </div>
        <Founder />
     
-        <div className="container mx-auto pt-20 pb-6 lg:pr-6">
+      /* <div className="container mx-auto pt-20 pb-6 lg:pr-6">
           <h1 className="text-white text-3xl text-center">
             MEET OUR 2021-23 TEAM
           </h1>
         </div>
 
-        {/* <TeamMember /> */}
-        <div className="w-full mt-10 px-3 pt-3 ">
+      /*  {/* <TeamMember /> */}
+        /*<div className="w-full mt-10 px-3 pt-3 ">
           <div className="container mx-auto">
             <div className="team-section">
               {data.map(info => (
                 <TeamMembers key={info.id} {...info} />
-              ))}
+             
+             
+             ))}
             </div>
           </div>
-        </div>
+        </div>*/
       </section>
     </>
   );
