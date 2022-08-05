@@ -1,7 +1,7 @@
 import React from "react";
 import "./founder.css";
 // Images
-import Arnav from "../../assets/team-cores/arnav.webp";
+import arnav from "../../assets/team-cores/arnav.webp";
 const Founder = () => {
  return (
  <>
