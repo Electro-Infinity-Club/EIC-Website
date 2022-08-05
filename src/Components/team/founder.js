@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import "./founder.css";
 // Images
 import Arnav from "../../assets/team-cores/arnav.webp";
@@ -32,3 +32,4 @@ student in the electronics domain.
  );
 };
 export default Founder;
+*/
