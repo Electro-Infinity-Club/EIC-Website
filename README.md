@@ -1,7 +1,7 @@
 # **Electro Infinity Club!!!**
 ####  *The official Student's Club of M.E.S. College of Engineering, Pune*
 
-### Check out the Deployed Website here - https://mescoe-eic.netlify.app/   
+### Check out the Deployed Website here -  https://mescoe-eic.netlify.app/   
 
 ## Our Social Media Platforms
  [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbl0PVgQHtLh1iLpronm8tg) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/electro-infinity-club) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mescoe_eic?utm_medium=copy_link) [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:electroinfinity@gmail.com)
