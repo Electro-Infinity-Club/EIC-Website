@@ -15,8 +15,9 @@ const TeamMembers = ({
 }) => {
   return (
     <>
-      <div className={"relative team-card-main " + (id === 1 ? "md:col-start-2" : (id === 2 ? "col-start-1" : ""))}>
-        <div className="rounded overflow-hidden shadow-md bg-club-50 team-card">
+      <div className={"relative new-team-card-main " + (id === 0 ? "md:col-start-2" : (id === 0? "col-start-1" : ""))}>
+
+        <div className="rounded overflow-hidden shadow-md bg-club-50 new-team-card">
           <div className="absolute -mt-20 w-full flex justify-center">
             <div className="h-36 w-36">
               <img
@@ -36,7 +37,7 @@ const TeamMembers = ({
             <div className="w-full flex justify-center gap-6 text-xl absolute inset-x-0 bottom-5">
               <a
                 href={"mailto:" + email}
-                className="team-social"
+                className="new-team-social"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -44,7 +45,7 @@ const TeamMembers = ({
               </a>
               <a
                 href={instagram}
-                className="team-social"
+                className="new-team-social"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -52,7 +53,7 @@ const TeamMembers = ({
               </a>
               <a
                 href={linkedin}
-                className="team-social"
+                className="new-team-social"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -61,7 +62,8 @@ const TeamMembers = ({
             </div>
           </div>
         </div>
-      </div>
+        </div>
+      
     </>
   );
 };

@@ -1,123 +1,186 @@
-import arnav from "../../assets/team-cores/arnav.webp";
-import akash from "../../assets/team-cores/akash.webp";
-import akshada from "../../assets/team-cores/akshada.webp";
-import disha from "../../assets/team-cores/disha.webp";
-import hemant from "../../assets/team-cores/hemant.webp";
-import ramsha from "../../assets/team-cores/ramsha.webp";
-import rohan from "../../assets/team-cores/rohan.webp";
-import sanvidha from "../../assets/team-cores/sanvidha.webp";
-import swapnil from "../../assets/team-cores/swapnil.webp";
-import vaishnavi from "../../assets/team-cores/vaishnavi.webp";
+import aditya from "../../assets/team-cores/Aditya.webp";
+import hemant from "../../assets/team-cores/Hemant.webp";
+import neeraj from "../../assets/team-cores/Neeraj.webp";
+import mitali from "../../assets/team-cores/Mitali.webp";
+import shubh from "../../assets/team-cores/Shubh.webp";
+import anjali from "../../assets/team-cores/Anjali.webp";
+import atharva from "../../assets/team-cores/Atharva.webp";
+import prasad from "../../assets/team-cores/Prasad.webp";
+import shivam from "../../assets/team-cores/Shivam.webp";
+import shravani from "../../assets/team-cores/Shravani.webp";
+import kedarnath from "../../assets/team-cores/Kedarnath.webp";
+import sakhib from "../../assets/team-cores/Sakhib.webp";
+import akshada from "../../assets/team-cores/Akshada.webp";
+import vaishnavi from "../../assets/team-cores/Vaishnavi.webp";
+import nirbhay from "../../assets/team-cores/Nirbhay.webp";
 
 export const TeamData = [
-  {
-    id: 1,
-    fname: "Arnav",
-    lname: "Botre",
-    post: "Founder & President",
-    image: arnav,
-    bio: "Arnav is a pre-final year and a diligent and enthusiast student in the electronics domain. In free time he loves hiking and playing sports.",
-    instagram: "https://www.instagram.com/arnav_botre14/",
-    linkedin: "https://www.linkedin.com/in/arnav-botre-b2a7591b2/",
-    email: "botrearnav@gmail.com"
-  },
-  {
-    id: 2,
-    fname: "Swapnil",
-    lname: "Chougule",
-    post: "Vice President",
-    image: swapnil,
-    bio: "I am a final year student and love to help others and learn new things. I love travelling.",
-    instagram: "https://www.instagram.com/iam_swapnil11/",
-    linkedin: "https://www.linkedin.com/in/swapnil-chougule-a373101b9",
-    email: "swapnilchougule1104@gmail.com"
-  },
-  {
-    id: 3,
-    fname: "Disha",
-    lname: "Gaikwad",
-    post: "Treasurer",
-    image: disha,
-    bio: "I'm a third-year undergraduate and have a keen interest in Electronics and AI/ML. I love to travel to different places.",
-    instagram: "https://instagram.com/dishu.1012/",
-    linkedin: "https://www.linkedin.com/in/disha-gaikwad-8b69a01b8",
-    email: "dishagaikwad064@gmail.com"
-  },
-  {
-    id: 4,
-    fname: "Akshada",
-    lname: "Shinde",
-    post: "Documentation Head",
-    image: akshada,
-    bio: "I am a third-year student who enjoys electronics and likes to explore new things. I love to draw and dance a lot.",
-    instagram: "https://instagram.com/__akshadaa.s/",
-    linkedin: "https://www.linkedin.com/in/akshada-shinde-3604091b8",
-    email: "akshadas.001@gmail.com"
-  },
-  {
-    id: 5,
-    fname: "Rohan",
-    lname: "Gilbile",
-    post: "Publicity Co-ordinator",
-    image: rohan,
-    bio: "I'm a third-year undergraduate who loves to work in various communities and get to learn new things. I love spending time on beaches.",
-    instagram: "https://www.instagram.com/gilbile_rohan/",
-    linkedin: "https://www.linkedin.com/in/rohan-gilbile-63999b190/",
-    email: "rohangilbile123@gmail.com"
-  },
-  {
-    id: 6,
-    fname: "Ramsha",
-    lname: "Shaikh",
-    post: "Event Co-ordinator",
-    image: ramsha,
-    bio: "I am a third-year student and have an interest in Electronics and IoT. I am always up for learning new things.",
-    instagram: "https://instagram.com/_ramshaaaa/",
-    linkedin: "https://www.linkedin.com/in/ramsha-shaikh-191844210",
-    email: "ramshashaikh777@gmail.com"
-  },
-  {
-    id: 7,
-    fname: "Hemant",
-    lname: "Mankar",
-    post: "Social Media Head",
-    image: hemant,
-    bio: "I am a second-year student and a person who never gives up. I love trekking.",
-    instagram: "http://instagram.com/hemant_._26",
-    linkedin: "https://www.linkedin.com/in/hemant-mankar-3204a7225",
-    email: "hemantmankar007@gmail.com"
-  },
-  {
-    id: 8,
-    fname: "Vaishnavi",
-    lname: "Bhale",
-    post: "Student Co-ordinator",
-    image: vaishnavi,
-    bio: "I am a third-year student. I like to explore, learn and gain experiences from various things. I am a home baker as well.",
-    instagram: "https://instagram.com/vaishnavi._.04/",
-    linkedin: "https://www.linkedin.com/in/vaishnavi-bhale-194844210",
-    email: "vaishnavibhale44@gmail.com"
-  },
-  {
-    id: 9,
-    fname: "Akash",
-    lname: "Bondare",
-    post: "Student Co-ordinator",
-    image: akash,
-    bio: "I am a third-year student and have an interest in Electronics. I am a Passionate learner looking forward to learning new and exciting things.",
-    instagram: "https://www.instagram.com/_akash_b08/",
-    linkedin: "https://www.linkedin.com/in/akash-bondare-53a6451a5",
-    email: "akashbondare504@gmail.com"
-  },
-  {
-    id: 10,
-    fname: "Sanvidha",
-    lname: "Haribhakta",
-    post: "Student Co-ordinator",
-    image: sanvidha,
-    bio: "I'm a second-year student. I have a keen interest in aerial gymnastics and badminton. I also like to extend my potential by learning new things.",
-    instagram: "https://www.instagram.com/sanvidha_/",
-    linkedin: "https://www.linkedin.com/in/sanvidha-haribhakta-12a215213/",
-    email: "haribhaktasanvidha@gmail.com"
-  }
-];
+{
+id: 1,
+fname: "Aditya",
+lname: "Khapke",
+post: "President",
+image: aditya,
+bio: "I'm in pre-final year who is patient and incisive students in electronics domain. In free time I like cycling and travelling",
+instagram: "https://instagram.com/aditya_khapake?igshid=YmMyMTA2M2Y=",
+linkedin:"https://www.linkedin.com/in/aditya-khapake-0b49ba213",
+email: "adik.info17@gmail.com"
+},
+{
+id: 2,
+fname: "Hemant",
+lname: "Mankar",
+post: "Vice President",
+image: hemant,
+bio: "I am third year student and have an interest in programming and problem solving. I am a person with lot of enthusiasm to learn new things.I love to explore nature.",
+instagram: "http://instagram.com/hemant_._26",
+linkedin: "https://www.linkedin.com/in/hemant-mankar-3204a7225",
+email: "hemantmankar007@gmail.com"
+},
+{
+id: 3,
+fname: "Neeraj",
+lname: "Chhjed",
+post: "Documentation Head",
+image: neeraj,
+bio: "I'm a third-year student and have a keen interest in Electronics. I love to code and develop electronic projects",
+instagram: "https://instagram.com/neeraj.chhajed?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/neeraj-chhajed-437741209",
+email: "neerajchhajed601@gmail.com"
+},
+{
+id: 4,
+fname: "Mitali",
+lname: "Pardeshi",
+post: "Treasurer",
+image: mitali,
+bio: "I'm a third year student and have an intrest in data science and electronics. I love to dance and draw",
+instagram: "https://instagram.com/mitalipardeshi___?igshid=YmMyMTA2M2Y=",
+linkedin:"https://www.linkedin.com/in/mitali-pardeshi-b76210219",
+email: "pardeshimitali757@gmail.com"
+},
+{
+id: 5,
+fname: "Shubh",
+lname: "Malkar",
+post: "Publicity Head",
+image: shubh,
+bio: "I am a third year ENTC student and I've always been curious of how electronic machines work. Apart from academics I also like to exercise and watch anime.",
+instagram: "https://instagram.com/shubh.malkar__?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/shubh-malkar-b8a4351a0",
+email: "shubhmalkar@gmail.com"
+},
+{
+id: 6,
+fname: "Anjali",
+lname: "Pardeshi",
+post: "Publicity Head",
+image: anjali,
+bio: "I am a third year undergraduate who is amused to work with computers and curious about learning new things.Leisure interest lies in dance and drawing.",
+instagram: "https://instagram.com/sherni_punjab_di?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/anjali-pardeshi-05209b1a5",
+email: "anjalipardeshi60@gmail.com"
+},
+{
+id: 7,
+fname: "Atharva",
+lname: "Mungase",
+post: "Event Co-ordinator",
+image: atharva,
+bio: "I am a third year student and have interest in electronics.I love to go on trecks.",
+instagram: "",
+linkedin:"https://www.linkedin.com/in/atharva-mungase-a52aa6207",
+email: "atharvamungase78@gmail.com"
+},
+{
+id: 8,
+fname: "Prasad",
+lname: "Nikam",
+post: "Event Co-ordinator",
+image:prasad ,
+bio: "I am second year student and an enthusiastic person. I have interest in electronics and also love to play badminton.",
+instagram: "https://instagram.com/_prasad_nikam?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/prasad-nikam-6176a1231",
+email: "prasadnikam2003@gmail.com"
+},
+{
+id: 9,
+fname: "Shivam",
+lname: "Kudal",
+post: "Social Media Head",
+image: shivam,
+bio: "I am third year undergraduate student. I am always energetic and eager to learn new skills.I have keen interest in coding especially in Web development .",
+instagram: "https://instagram.com/_magical_mutes_02?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/shivam-kudal-8a0b65179",
+email: "shivam6402@gmail.com"
+},
+{
+id: 10,
+fname: "Shravani",
+lname: "Kadam",
+post: "Social Media Head",
+image:shravani ,
+bio: "",
+instagram: "https://instagram.com/shravani5808?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
+email: "shravanikadam1576@gmail.com"
+},
+{
+id: 11,
+fname: "Kedarnath",
+lname: "Tawde",
+post: "Marketing Head",
+image: kedarnath,
+bio: "",
+instagram: "https://instagram.com/kedar._tawde?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/kedar-tawde-527839231",
+email: "tawdekedar@gmail.com"
+},
+                        
+                           
+{
+ id: 12,
+ fname: "Sakhib",
+ lname: "Shaikh",
+ post: "Marketing Head",
+ image: sakhib,
+ bio: "",
+ instagram: "https://instagram.com/myself_sss_786?igshid=YmMyMTA2M2Y=",
+ linkedin:"https://www.linkedin.com/in/sakhib-shaikh-a6438a213/ ",
+ email : "sakhibshaikh786@gmail.com"
+},
+{
+id: 13,
+fname: "Akshada",
+lname: "Phadatare",
+post: "Student Co-ordinator",
+image: akshada,
+bio: "I am second year student of Electronic and Telecommunications,I love to learn new things of electronics and love to dance .",
+instagram: "https://instagram.com/1609_akshada_phadatare?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/akshada-phadatare-422630231",
+email: "akshadaphadatare49@gmail.com"
+},
+{
+id: 14,
+fname: "Vaishnavi",
+lname: "Mandlik",
+post: "Student Co-ordinator",
+image:vaishnavi ,
+bio: "I'm Mandlik Vaishnavi Shivaji . Currently I'm studying computer engineering . I have interest in traveling and trekking",
+instagram: "https://instagram.com/_xviii_vaishnavi?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/vaishnavi-mandlik-001931231",
+email: "mvaishnavi924@gmail.com"
+},
+{
+id: 15,
+fname: "Nirbhay",
+lname: "Khande",
+post: "Student Co-ordinator",
+image: nirbhay,
+bio: "I'm a second year student who loves to travel and play the sports at most. I've intrest in learning and exploring new things.",
+instagram: "https://instagram.com/_me_nirbhay_?igshid=YmMyMTA2M2Y=",
+linkedin: "https://www.linkedin.com/in/nirbhay-khande-91984a231",
+email: "nirbhay856751@gmail.com"
+},
+
+]
