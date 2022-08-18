@@ -48,7 +48,7 @@ const TeamContainer = () => {
                 </div>
                 <>
                 <div className="container mx-auto pt-20 pb-6 lg:pr-6">
-          <h2 className="text-white text-3xl text-center">
+          <h2 className="text-white text-4xl text-center">
            MEET OUR OLD TEAM
 
           </h2>
@@ -83,7 +83,7 @@ const TeamContainer = () => {
                     leaveTo="transform scale-95 opacity-0"
                   >
                     <Disclosure.Panel>
-                      <div className="w-full my-3 lg:mt-0">
+                      <div className="w-full my-3 lg:mt-10 sm:mt-10">
                         <div className="container mx-auto">
                           <div className="flex flex-wrap gap-2">
                             {oldTeamData[year].map(oldInfo => (

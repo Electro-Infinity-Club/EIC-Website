@@ -20,7 +20,7 @@ const Founder = () => {
  Arnav Botre
  </h1>
  <p className="text-base font-normal text-club-700">
- Arnav is a pre-final year and a diligent and enthusiast 
+ Arnav is a final year and a diligent and enthusiast 
 student in the electronics domain.
  In free time he loves hiking and playing sports.
  </p>

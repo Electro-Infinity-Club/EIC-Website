@@ -14,7 +14,7 @@
 #### *2. Shubham Jadhav* - [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamSj07)
 #### *3. Rohan Gilbile*- [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohangilbile123)
 #### *4. Avani Sahu*- [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avanisahu)
-
-
+#### *5. Sakhib Shaikh*- [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAKHIBSHAIKH786)
+#### *6. Shivam Kudal*- [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam6402)
 
 

@@ -19,6 +19,7 @@
     align-self: center;
   }
     .team-card {
+    margin-top: 3rem;  
     height: 15rem;
     box-shadow: rgba(0, 0, 0, 0.5) 2px 3px 4px 0px inset, rgba(0, 0, 0, 0.5) -2px -3px 4px 0px inset;
   }
@@ -51,10 +52,12 @@
     }
   
     .team-card {
-      height: 10rem;
+      height: 15rem;
+      
     }
     .team-card-main {
       width: 50%;
+      margin-left: 11rem;
     }
   }
   
@@ -64,7 +67,8 @@
     }
   
     .team-card-main {
-      width: 100%;
+      width: 90%;
+      margin-left: 1.25rem;
     }
     .team-card {
       height: 15rem;
