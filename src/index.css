@@ -21,11 +21,15 @@ body {
   font-family: "Fira Sans", sans-serif;
 }
 
-button, a {
+button,
+a {
   -webkit-tap-highlight-color: transparent;
 }
 
+
 /* Page load sliding animation */
+
+
 /*@keyframes slideInFromLeft {
   0% {
     transform: translateX(-60%);
@@ -52,16 +56,19 @@ button, a {
   0% {
     transform: translateY(-100%);
   }
+
   100% {
     transform: translateY(0%);
   }
 }
 
+
 /* Hero Section */
+
 .hero {
   position: relative;
   height: 100vh;
-  background-image: url("./Components/HeroSection/heroBG.gif");
+  background-image: url("./Components/HeroSection/heroBG.webp");
   background-size: cover;
   background-position: center;
   background-color: #001824;
@@ -77,7 +84,9 @@ button, a {
   margin: 0 auto;
 }
 
+
 /*ToTopButton*/
+
 .float-button {
   position: fixed;
   bottom: 5%;
@@ -91,7 +100,9 @@ button, a {
   z-index: 10;
 }
 
+
 /* Navigation */
+
 nav {
   position: absolute;
   top: 0;
@@ -103,7 +114,9 @@ nav {
   animation: slideInFromAbove 500ms ease-out 0s 1;
 }
 
+
 /* FAQ section */
+
 .faq-section {
   max-width: 80%;
   margin: 0 auto;
@@ -129,19 +142,22 @@ nav {
   background-color: lightgray;
 }
 
+
 /* Responsive Styling */
+
 @media screen and (max-width: 1024px) {
   nav {
     position: fixed;
     background: #0f1f3d;
-    box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.2),
-      0px -8px 16px 0px rgba(72, 127, 255, 0.2);  
+    box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.2), 0px -8px 16px 0px rgba(72, 127, 255, 0.2);
   }
+
   .hero {
-    background-image: url("./Components/HeroSection/heroTab.gif");
+    background-image: url("./Components/HeroSection/heroTab.webp");
     background-size: contain;
     background-repeat: no-repeat;
   }
+
   .subHeroSection {
     max-width: 100%;
   }
@@ -156,12 +172,11 @@ nav {
     position: fixed;
     background: #0f1f3d;
     padding: 0 1rem;
-    box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.2),
-      0px -8px 16px 0px rgba(72, 127, 255, 0.2);  
+    box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.2), 0px -8px 16px 0px rgba(72, 127, 255, 0.2);
   }
 
   .hero {
-    background-image: url("./Components/HeroSection/heroMob.gif");
+    background-image: url("./Components/HeroSection/heroMob.webp");
     background-repeat: no-repeat;
     background-size: contain;
   }
