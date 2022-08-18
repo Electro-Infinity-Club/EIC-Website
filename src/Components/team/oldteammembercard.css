@@ -51,10 +51,10 @@
     }
   
     .team-card {
-      height: 24rem;
+      height: 10rem;
     }
     .team-card-main {
-      width: 100%;
+      width: 50%;
     }
   }
   
@@ -67,7 +67,7 @@
       width: 100%;
     }
     .team-card {
-      height: 21.5rem;
+      height: 15rem;
     }
   }
   
