@@ -40,7 +40,7 @@ email: "hemantmankar007@gmail.com"
 {
 id: 3,
 fname: "Neeraj",
-lname: "Chhjed",
+lname: "Chhajed",
 post: "Documentation Head",
 image: neeraj,
 bio: "I'm a third-year student and have a keen interest in Electronics. I love to code and develop electronic projects",
