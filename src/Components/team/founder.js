@@ -20,9 +20,10 @@ const Founder = () => {
  Arnav Botre
  </h1>
  <p className="text-base font-normal text-club-700">
- Arnav is a final year and a diligent and enthusiast 
-student in the electronics domain.
- In free time he loves hiking and playing sports.
+ I am a final year student of ENTC department and a enthusiast in electronics domain.
+I have keen interest in knowing the technological advancements taking place in the world.
+My main motto behind starting this club was to motivate students in this field and build a better tomorrow together.
+In my free time I love hiking and play different types of sports.
  </p>
  </div>
  </div> 
