@@ -1,0 +1,130 @@
+.founder-container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.founder-card {
+    width: 45%;
+    display: flex;
+    gap: 0.5rem;
+    background-color: #e8f0ff;
+    border-radius: 0.5rem;
+    box-shadow: rgba(173, 210, 230, 0.3) 0px 13px 27px -5px, rgba(173, 210, 230, 0.3) 0px 8px 16px -8px;
+}
+
+.founder-image-container {
+    width: 40%;
+    height: 100%;
+    border-radius: 0.5rem 0 0 0.5rem;
+    border: 2px solid #e8f0ff;
+}
+
+.founder-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.founder-name {
+    font-size: 1.875rem;
+    font-weight: bold;
+    padding: 0.25em 0;
+}
+
+.founder-name::after {
+    content: "";
+    display: block;
+    margin: 0.15rem 4rem 0 0;
+    height: 1px;
+    background-color: #1d3464;
+}
+
+.founder-content {
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.25rem;
+}
+
+@media screen and (max-width: 992px) {
+    .founder-container {
+        align-items: center;
+        gap: 3rem;
+    }
+    .founder-card {
+        width: 50%;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .founder-image-container {
+        width: 60%;
+        height: 300px;
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    .founder-image {
+        height: 300px;
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    .founder-name {
+        padding: 0;
+    }
+    .founder-name::after {
+        margin: 0.15rem 4rem;
+    }
+    .founder-content {
+        width: 100%;
+        padding: 0 4px;
+    }
+    .founder-content::after {
+        content: "";
+        display: block;
+        margin: 0 4rem;
+        height: 2px;
+        background-color: #1d3464;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .founder-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 3rem;
+    }
+    .founder-card {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .founder-image-container {
+        width: 60%;
+        height: 300px;
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    .founder-image {
+        height: 300px;
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    .founder-name {
+        padding: 0;
+    }
+    .founder-name::after {
+        margin: 0.15rem 4rem;
+    }
+    .founder-content {
+        width: 100%;
+        padding: 0 4px;
+    }
+    .founder-content::after {
+        content: "";
+        display: block;
+        margin: 0 4rem;
+        height: 2px;
+        background-color: #1d3464;
+    }
+}
