@@ -1,6 +1,13 @@
 {
   "upcoming": [
-    {"id": 0}
+    {"id":9,
+    "img":"/events/event-9.png",
+    "title":"ELECTRO ESSENTIALS 2.0",
+    "date":"September 02,2022",
+    "info":"Electro Infinity Club presents the workshop on Introduction to Basic Electronic Components & Hand's-on learning of Arduino with mini project. Will be much beneficial to every student. So don't miss this opportunity!",
+    "link":"https://forms.gle/GT9ErXdHMbbJy4wD9",
+    "opne": true
+  }
   ],
 
   "past": [
