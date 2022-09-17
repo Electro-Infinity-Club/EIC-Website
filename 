@@ -1,0 +1,259 @@
+[33mcommit 933994988a076f3011372fa4deed4c1a36982004[m[33m ([m[1;36mHEAD -> [m[1;32mdev_sakhib[m[33m, [m[1;31morigin/dev_sakhib[m[33m)[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Sat Sep 17 22:35:06 2022 +0530
+
+    recent changes made
+
+[33mcommit 514455e8918a04b0aa2796e7f3e99ae234086f96[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Wed Sep 14 23:38:48 2022 +0530
+
+    Past Event
+
+[33mcommit 253d1f556c15754daf9aedd7b63670367c5bb500[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Tue Aug 30 07:04:45 2022 +0530
+
+    upcoming event
+
+[33mcommit 41f1f24664aaba6beee1f1a8877d9fef4302e042[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Sun Aug 28 19:31:05 2022 +0530
+
+    Photo resize
+
+[33mcommit af1a07bf3121a402a1f39a12b3855893ba43819c[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Sun Aug 28 13:12:07 2022 +0530
+
+    final change
+
+[33mcommit 9105ffb3a386d4addd23cb3bf26dc2e0aaa7500d[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Mon Aug 22 22:46:58 2022 +0530
+
+    changed ex members photo
+
+[33mcommit 92d61f9237fdf1fe695f547eedb1002ab037f6dc[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Fri Aug 19 01:08:38 2022 +0530
+
+    readme updated
+
+[33mcommit 786d29f0c566a5785f500b5606af2f35f4beb0aa[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Fri Aug 19 00:22:57 2022 +0530
+
+    photo updated
+
+[33mcommit 632f433171df08c6e8ed31ee213c9e3e68ffa80d[m
+Merge: dbf337c f9de11d
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Thu Aug 18 23:30:17 2022 +0530
+
+    index.css
+
+[33mcommit dbf337c24617cdb8e4be2fbc3629c12a2be0785f[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Thu Aug 18 23:13:23 2022 +0530
+
+    webp update
+
+[33mcommit 212df6c1a8a3b023f6416a4eb1deba629f8e4d41[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Thu Aug 18 23:10:07 2022 +0530
+
+    website updates
+
+[33mcommit f9de11d894746bf00dbd3f807fa2ee5c07afab78[m[33m ([m[1;31mupstream/master[m[33m)[m
+Merge: 7c4ad4f 1bd4043
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 18 12:57:34 2022 +0530
+
+    Merge pull request #54 from Electro-Infinity-Club/dev_sakhib
+    
+    Dev sakhib
+
+[33mcommit 1bd4043eb314cc83aa252db1f506260912bfd625[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Thu Aug 18 12:54:00 2022 +0530
+
+    event 7 and 8 added
+
+[33mcommit 7c4ad4fd027566c5e7f187bdc74c2e29e0950512[m
+Merge: b9d4ea4 e895cac
+Author: Janak Khorgade <72466304+Janak2401@users.noreply.github.com>
+Date:   Tue Aug 16 19:51:00 2022 +0530
+
+    Merge pull request #53 from Electro-Infinity-Club/dev_janak
+    
+    hero section changes
+
+[33mcommit e895cacebd7bb4b161872688465223c4dfd4fa4c[m
+Author: Janak Khorgade <janak24fop@gmail.com>
+Date:   Tue Aug 16 19:49:30 2022 +0530
+
+    hero section changes
+
+[33mcommit d388f3ccee45641a70241918f01b8070a1e22f14[m
+Author: SAKHIBSHAIKH786 <sakhibshaikh786@gmail.com>
+Date:   Mon Aug 15 15:18:48 2022 +0530
+
+    sakhib made changes
+
+[33mcommit b9d4ea4792449e41a64696205e8e069ef254c3fb[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: c1f40ff fb63d8b
+Author: Janak Khorgade <72466304+Janak2401@users.noreply.github.com>
+Date:   Mon Aug 15 14:33:59 2022 +0530
+
+    Merge pull request #51 from Electro-Infinity-Club/dev_janak
+    
+    hero section changes
+
+[33mcommit fb63d8bd122c4cb835901bfb43f2e45410b8aa2c[m
+Author: Janak Khorgade <janak24fop@gmail.com>
+Date:   Mon Aug 15 14:28:00 2022 +0530
+
+    hero section changes
+
+[33mcommit c1f40ffc497c8e50e3cff5903b37bafc39ac1583[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:26:40 2022 +0530
+
+    Update teamMemberCard.css
+
+[33mcommit c8a87e6f3b713c6cfb9cd0ab463789048d2fe00c[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:25:32 2022 +0530
+
+    Update teamData.js
+
+[33mcommit 109146bde7fb6a30874bebcf94b21f623b39b524[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:24:00 2022 +0530
+
+    Update team.js
+
+[33mcommit fca012822f3750b85cebb5c2a85e0df3119f2740[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:19:41 2022 +0530
+
+    Update team.js
+
+[33mcommit 99b9a52dbc93aed56e0a44d6f5054b41cb7fab89[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:17:58 2022 +0530
+
+    Delete founder.css
+
+[33mcommit ecf2ca7d8fa04ed5d2d2b2eaa8bfe40f436c8515[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:17:48 2022 +0530
+
+    Delete founder.js
+
+[33mcommit ceffa5a96dcf7ee23b96467210731045cdf59015[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:17:21 2022 +0530
+
+    Update founder.js
+
+[33mcommit 1ee2ce48de024360c83e55851a7e39615254afd4[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:14:52 2022 +0530
+
+    Update team.js
+
+[33mcommit 869be4a029bf840845e57bc2d3c037a48c89bfe1[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:13:13 2022 +0530
+
+    Update teamData.js
+
+[33mcommit 829bf948d2484adb04f1311f4a983d1f04896512[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 23:01:42 2022 +0530
+
+    Update teamMemberCard.css
+
+[33mcommit 8a1756402f1c3879c41635a7a13d18b07b12d14f[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 22:07:31 2022 +0530
+
+    Update teamMemberCard.css
+
+[33mcommit 6082e55b9d2205752ec86bc599850962a8adcc13[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 22:03:14 2022 +0530
+
+    Update teamData.js
+
+[33mcommit 2b4602958870924b8f14d1ef29ca55b2904c3af1[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 22:02:33 2022 +0530
+
+    Update team.js
+
+[33mcommit 54c6c7c20610ef8b51474ebc34326a51799f337e[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 22:00:48 2022 +0530
+
+    Update founder.js
+
+[33mcommit 4cc263ab5ce70d9b1fdcc166752e77a35d4f4eb8[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 21:59:28 2022 +0530
+
+    Update founder.js
+
+[33mcommit fb5609d4022529dfe5e840a7e7740928190cc0a5[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 21:53:49 2022 +0530
+
+    Update team.js
+
+[33mcommit 65598b97676327d00f53dad64ca7eaaa00da1481[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Fri Aug 5 21:52:03 2022 +0530
+
+    Update team.js
+
+[33mcommit 6650971f9c8a47a148421ecd628c2b55c76b6a4d[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:56:20 2022 +0530
+
+    Update team.js
+
+[33mcommit 62cda081bdf9bae7a3d1b7bf17262be4d57a8a86[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:55:02 2022 +0530
+
+    Update teamData.js
+
+[33mcommit 92aea5cd20a8f0551c0bf7bbdd3c037b6ed619d0[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:52:35 2022 +0530
+
+    Rename Founder.css to founder.css
+
+[33mcommit cffafed53385f1cd5b45cd25f396962f4e82dcfa[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:50:10 2022 +0530
+
+    Create founder.js
+
+[33mcommit 3c45e9446296c5d2d0e053db93509f780933615f[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:48:31 2022 +0530
+
+    Create Founder.css
+
+[33mcommit 2659a79215d4862d714845b6c271b84687bfd1e9[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date:   Thu Aug 4 23:45:43 2022 +0530
+
+    Update team.js
+
+[33mcommit 9e1f1ec9ffbfab85f98174887b9f4e7b6ab4d7c2[m
+Author: SAKHIBSHAIKH786 <85670761+SAKHIBSHAIKH786@users.noreply.github.com>
+Date
