@@ -15,6 +15,7 @@ import vaishnavi from "../../assets/team-cores/Vaishnavi.webp";
 import nirbhay from "../../assets/team-cores/Nirbhay.webp";
 
 export const TeamData = [
+
 {
 id: 1,
 fname: "Aditya",
@@ -182,5 +183,4 @@ instagram: "https://instagram.com/_me_nirbhay_?igshid=YmMyMTA2M2Y=",
 linkedin: "https://www.linkedin.com/in/nirbhay-khande-91984a231",
 email: "nirbhay856751@gmail.com"
 },
-
 ]
