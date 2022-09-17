@@ -1,16 +1,20 @@
 {
   "upcoming": [
-    {"id":9,
-    "img":"/events/event-9.png",
-    "title":"ELECTRO ESSENTIALS 2.0",
-    "date":"September 02,2022",
-    "info":"Electro Infinity Club presents the workshop on Introduction to Basic Electronic Components & Hand's-on learning of Arduino with mini project. Will be much beneficial to every student. So don't miss this opportunity!",
-    "link":"https://forms.gle/GT9ErXdHMbbJy4wD9",
-    "opne": true
-  }
+    {
+      "id":0
+    }
   ],
 
   "past": [
+    {
+      "id":9,
+    "img":"/events/event-9.png",
+    "title":"ELECTRO ESSENTIALS 2.0",
+    "date":"September 02,2022",
+    "info":"This event was second edition of Electro Essentials. Participants enjoyed hands on experience on Basic Electronic Components and Arduino UNO with some Mini Projects.",
+    "link":"",
+    "opne": false
+  },
     {
       "id":8,
       "img":"/events/event-8.png",
@@ -80,7 +84,7 @@
       "img": "/events/event-1.jpg",
       "title": "Induction Program",
       "date": "17th September 2021",
-      "info": "Induction program about the information of the club and registration for new members",
+      "info": "This Induction program was about brief information about the club and registration for new members.",
       "link": "",
       "open": false
     }

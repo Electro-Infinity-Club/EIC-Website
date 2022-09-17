@@ -1,5 +1,5 @@
 import aditya from "../../assets/team-cores/Aditya.webp";
-import hemant from "../../assets/team-cores/hemant.webp";
+import hemant from "../../assets/team-cores/Hemant.webp";
 import neeraj from "../../assets/team-cores/Neeraj.webp";
 import mitali from "../../assets/team-cores/Mitali.webp";
 import shubh from "../../assets/team-cores/Shubh.webp";
@@ -10,8 +10,8 @@ import shivam from "../../assets/team-cores/Shivam.webp";
 import shravani from "../../assets/team-cores/Shravani.webp";
 import kedarnath from "../../assets/team-cores/Kedarnath.webp";
 import sakhib from "../../assets/team-cores/Sakhib.webp";
-import akshada from "../../assets/team-cores/akshada.webp";
-import vaishnavi from "../../assets/team-cores/vaishnavi.webp";
+import akshada from "../../assets/team-cores/Akshada.webp";
+import vaishnavi from "../../assets/team-cores/Vaishnavi.webp";
 import nirbhay from "../../assets/team-cores/Nirbhay.webp";
 
 export const TeamData = [
