@@ -145,7 +145,7 @@ email: "tawdekedar@gmail.com"
  lname: "Shaikh",
  post: "Marketing Head",
  image: sakhib,
- bio: "I am third year undergraduate student who loves to play sports.I am very eager to learn new things and tackle problem innovatively",
+ bio: "I am third year undergraduate student who loves to play sports.I am very eager to learn new things and tackle problem innovatively.",
  instagram: "https://instagram.com/myself_sss_786?igshid=YmMyMTA2M2Y=",
  linkedin:"https://www.linkedin.com/in/sakhib-shaikh-a6438a213/ ",
  email : "sakhibshaikh786@gmail.com"
