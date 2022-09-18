@@ -1,13 +1,13 @@
 import arnav from "../../assets/team-cores/arnav.webp";
 import akash from "../../assets/team-cores/akash.webp";
-import akshada from "../../assets/team-cores/akshada1.webp";
+import akshada from "../../assets/team-cores/akshada_old.webp";
 import disha from "../../assets/team-cores/disha.webp";
-import hemant from "../../assets/team-cores/Hemant1.webp";
+import hemant from "../../assets/team-cores/hemant_old.webp";
 import ramsha from "../../assets/team-cores/ramsha.webp";
 import rohan from "../../assets/team-cores/rohan.webp";
 import sanvidha from "../../assets/team-cores/sanvidha.webp";
 import swapnil from "../../assets/team-cores/swapnil.webp";
-import vaishnavi from "../../assets/team-cores/vaishnavi1.webp";
+import vaishnavi from "../../assets/team-cores/vaishnavi_old.webp";
 
 export const oldTeamData =
 {

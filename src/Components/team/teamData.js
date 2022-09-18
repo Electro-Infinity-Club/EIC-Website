@@ -1,21 +1,20 @@
-import aditya from "../../assets/team-cores/Aditya.webp";
-import hemant from "../../assets/team-cores/Hemant.webp";
-import neeraj from "../../assets/team-cores/Neeraj.webp";
-import mitali from "../../assets/team-cores/Mitali.webp";
-import shubh from "../../assets/team-cores/Shubh.webp";
-import anjali from "../../assets/team-cores/Anjali.webp";
-import atharva from "../../assets/team-cores/Atharva.webp";
-import prasad from "../../assets/team-cores/Prasad.webp";
-import shivam from "../../assets/team-cores/Shivam.webp";
-import shravani from "../../assets/team-cores/Shravani.webp";
-import kedarnath from "../../assets/team-cores/Kedarnath.webp";
-import sakhib from "../../assets/team-cores/Sakhib.webp";
-import akshada from "../../assets/team-cores/Akshada.webp";
-import vaishnavi from "../../assets/team-cores/Vaishnavi.webp";
-import nirbhay from "../../assets/team-cores/Nirbhay.webp";
+import aditya from "../../assets/team-cores/aditya.webp";
+import hemant from "../../assets/team-cores/hemant.webp";
+import neeraj from "../../assets/team-cores/neeraj.webp";
+import mitali from "../../assets/team-cores/mitali.webp";
+import shubh from "../../assets/team-cores/shubh.webp";
+import anjali from "../../assets/team-cores/anjali.webp";
+import atharva from "../../assets/team-cores/atharva.webp";
+import prasad from "../../assets/team-cores/prasad.webp";
+import shivam from "../../assets/team-cores/shivam.webp";
+import shravani from "../../assets/team-cores/shravani.webp";
+import kedarnath from "../../assets/team-cores/kedarnath.webp";
+import sakhib from "../../assets/team-cores/sakhib.webp";
+import akshada from "../../assets/team-cores/akshada.webp";
+import vaishnavi from "../../assets/team-cores/vaishnavi.webp";
+import nirbhay from "../../assets/team-cores/nirbhay.webp";
 
 export const TeamData = [
-
     {
         id: 1,
         fname: "Aditya",
