@@ -1,30 +1,28 @@
 {
   "upcoming": [
     {
-      "id":0
+      "id": 0
     }
   ],
-
   "past": [
     {
-      "id":9,
-    "img":"/events/event-9.png",
-    "title":"ELECTRO ESSENTIALS 2.0",
-    "date":"September 02,2022",
-    "info":"This event was second edition of Electro Essentials. Participants enjoyed hands on experience on Basic Electronic Components and Arduino UNO with some Mini Projects.",
-    "link":"",
-    "opne": false
-  },
+      "id": 9,
+      "img": "/events/event-9.png",
+      "title": "ELECTRO ESSENTIALS 2.0",
+      "date": "September 02,2022",
+      "info": "This event was second edition of Electro Essentials. Participants enjoyed hands on experience on Basic Electronic Components and Arduino UNO with some Mini Projects.",
+      "link": "",
+      "opne": false
+    },
     {
-      "id":8,
-      "img":"/events/event-8.png",
-      "title":"Alumni Interaction With Students",
-      "date":"12 August 2022",
-      "info":"This event was organized to explain all about Data Science And AIML and various other courses needed to get good job placements.",
-      "link":"",
+      "id": 8,
+      "img": "/events/event-8.png",
+      "title": "Alumni Interaction With Students",
+      "date": "12 August 2022",
+      "info": "This event was organized to explain all about Data Science And AIML and various other courses needed to get good job placements.",
+      "link": "",
       "open": false
     },
-    
     {
       "id": 7,
       "img": "/events/event-7.png",
@@ -33,7 +31,7 @@
       "info": "This workshop is to provide knowledge regarding Proteus Software and covers every part regarding Printed Circuit Board.",
       "link": "",
       "open": false
-  },
+    },
     {
       "id": 6,
       "img": "/events/event-6.png",
