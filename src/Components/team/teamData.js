@@ -110,7 +110,7 @@ fname: "Shivam",
 lname: "Kudal",
 post: "Social Media Head",
 image: shivam,
-bio: "I am third year undergraduate student. I am always energetic and eager to learn new skills.I have keen interest in coding especially in Web development.",
+bio: "I am third year undergraduate student. I am always energetic and eager to learn new skills.I have keen interest in coding especially in Web development .",
 instagram: "https://instagram.com/_magical_mutes_02?igshid=YmMyMTA2M2Y=",
 linkedin: "https://www.linkedin.com/in/shivam-kudal-8a0b65179",
 email: "shivam6402@gmail.com"
