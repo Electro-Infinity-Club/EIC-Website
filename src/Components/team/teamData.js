@@ -1,5 +1,5 @@
 import aditya from "../../assets/team-cores/aditya.webp";
-import hemant from "../../assets/team-cores/hemant.webp";
+import hemant from "../../assets/team-cores/Hemant.webp";
 import neeraj from "../../assets/team-cores/neeraj.webp";
 import mitali from "../../assets/team-cores/mitali.webp";
 import shubh from "../../assets/team-cores/shubh.webp";
