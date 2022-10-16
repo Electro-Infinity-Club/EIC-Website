@@ -18,7 +18,7 @@ export const TeamData = [
     {
         id: 1,
         fname: "Aditya",
-        lname: "Khapke",
+        lname: "Khapake",
         post: "President",
         image: aditya,
         bio: "I'm pre-final year student who is patient and incisive in electronics domain. In free time I like cycling and travelling.",
