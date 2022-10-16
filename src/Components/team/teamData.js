@@ -30,7 +30,7 @@ export const TeamData = [
         id: 2,
         fname: "Hemant",
         lname: "Mankar",
-        post: "Vice President",
+        post: "Vice-President",
         image: hemant,
         bio: "I am third year student and have an interest in programming and problem solving. I am a person with lot of enthusiasm to learn new things.I love to explore nature.",
         instagram: "http://instagram.com/hemant_._26",
