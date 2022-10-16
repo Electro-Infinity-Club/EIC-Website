@@ -18,7 +18,11 @@ export const TeamData = [
     {
         id: 1,
         fname: "Aditya",
+<<<<<<< HEAD
         lname: "Khapake",
+=======
+        lname: "Khapke",
+>>>>>>> 1ecdd9c2b7a4e8f77c6da3d8d0c5907e115a2755
         post: "President",
         image: aditya,
         bio: "I'm pre-final year student who is patient and incisive in electronics domain. In free time I like cycling and travelling.",
@@ -116,6 +120,7 @@ export const TeamData = [
     },
     {
         id: 10,
+<<<<<<< HEAD
         fname: "Akshada",
         lname: "Phadatare",
         post: "Social Media Head",
@@ -124,6 +129,16 @@ export const TeamData = [
         instagram: "https://instagram.com/1609_akshada_phadatare?igshid=YmMyMTA2M2Y=",
         linkedin: "https://www.linkedin.com/in/akshada-phadatare-422630231",
         email: "akshadaphadatare49@gmail.com"
+=======
+        fname: "Shravani",
+        lname: "Kadam",
+        post: "Social Media Head",
+        image: shravani,
+        bio: "I'm a third year undergraduate student. I'm optimistic, self motivated person. I believe in team work I like to paint , listen to the song in my free time .",
+        instagram: "https://instagram.com/shravani5808?igshid=YmMyMTA2M2Y=",
+        linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
+        email: "shravanikadam1576@gmail.com"
+>>>>>>> 1ecdd9c2b7a4e8f77c6da3d8d0c5907e115a2755
     },
     {
         id: 11,
@@ -151,6 +166,7 @@ export const TeamData = [
     },
     {
         id: 13,
+<<<<<<< HEAD
         fname: "Shravani",
         lname: "Kadam",
         post: "Student Co-ordinator",
@@ -159,6 +175,16 @@ export const TeamData = [
         instagram: "https://instagram.com/shravani5808?igshid=YmMyMTA2M2Y=",
         linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
         email: "shravanikadam1576@gmail.com"
+=======
+        fname: "Akshada",
+        lname: "Phadatare",
+        post: "Student Co-ordinator",
+        image: akshada,
+        bio: "I am second year student of Electronic and Telecommunications,I love to learn new things of electronics and love to dance .",
+        instagram: "https://instagram.com/1609_akshada_phadatare?igshid=YmMyMTA2M2Y=",
+        linkedin: "https://www.linkedin.com/in/akshada-phadatare-422630231",
+        email: "akshadaphadatare49@gmail.com"
+>>>>>>> 1ecdd9c2b7a4e8f77c6da3d8d0c5907e115a2755
     },
     {
         id: 14,
