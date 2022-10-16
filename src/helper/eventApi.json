@@ -1,0 +1,90 @@
+{
+  "upcoming": [
+    {
+      "id": 0
+    }
+  ],
+  "past": [
+    {
+      "id": 9,
+      "img": "/events/event-9.png",
+      "title": "ELECTRO ESSENTIALS 2.0",
+      "date": "September 02,2022",
+      "info": "This event was second edition of Electro Essentials. Participants enjoyed hands on experience on Basic Electronic Components and Arduino UNO with some Mini Projects.",
+      "link": "",
+      "opne": false
+    },
+    {
+      "id": 8,
+      "img": "/events/event-8.png",
+      "title": "Alumni Interaction With Students",
+      "date": "12 August 2022",
+      "info": "This event was organized to explain all about Data Science And AIML and various other courses needed to get good job placements.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 7,
+      "img": "/events/event-7.png",
+      "title": "Workshop On Proteus Software",
+      "date": "21 APRIL 2022",
+      "info": "This workshop is to provide knowledge regarding Proteus Software and covers every part regarding Printed Circuit Board.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 6,
+      "img": "/events/event-6.png",
+      "title": "Rocket Boys Stream Party",
+      "date": "21-24 March 2022",
+      "info": "Electro Infinity Club presents live streaming of web series based on life of Dr. Homi Jehangir Bhabha and Dr. Vikram Ambalal Sarabhai, who created history while building India's future.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 5,
+      "img": "/events/event-5.png",
+      "title": "Introduction to PCB Designing",
+      "date": "15th January 2022",
+      "info": "This workshop will cover the basics of PCB design, its terminologies, basics to schematic, footprint creation, placement & route and various other topics.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 4,
+      "img": "/events/event-4.png",
+      "title": "Internet of Things and it's Applications",
+      "date": "10th December 2021",
+      "info": "This workshop will help you to learn and explore the internet of things, so don't miss this opportunity.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 3,
+      "img": "/events/event-3.png",
+      "title": "Electronics Essential",
+      "date": "20th November 2021",
+      "info": "Students were given a practical hands-on session about basic components, breadboards, Arduino and connections and much more 💻.\nNote: This was an offline event.",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 2,
+      "img": "/events/event-2.png",
+      "title": "EIC Quiz Series",
+      "date": "18-24th October 2021",
+      "info": "Online Quiz on questions related to basic electronics. Quiz took place for 6 days where students attempted over 30 questions",
+      "link": "",
+      "open": false
+    },
+    {
+      "id": 1,
+      "img": "/events/event-1.jpg",
+      "title": "Induction Program",
+      "date": "17th September 2021",
+      "info": "This Induction program was about brief information about the club and registration for new members.",
+      "link": "",
+      "open": false
+    }
+  ]
+}
