@@ -21,7 +21,7 @@ export const TeamData = [
         lname: "Khapake",
         post: "President",
         image: aditya,
-        bio: "I'm pre-final year student who is patient and incisive in electronics domain. In free time I like cycling and travelling.",
+        bio: "I'm pre-final year student who is patient and incisive in electronics domain. In free time I like cycling and travelling",
         instagram: "https://instagram.com/aditya_khapake?igshid=YmMyMTA2M2Y=",
         linkedin: "https://www.linkedin.com/in/aditya-khapake-0b49ba213",
         email: "adik.info17@gmail.com"
@@ -30,7 +30,7 @@ export const TeamData = [
         id: 2,
         fname: "Hemant",
         lname: "Mankar",
-        post: "Vice-President",
+        post: "Vice President",
         image: hemant,
         bio: "I am third year student and have an interest in programming and problem solving. I am a person with lot of enthusiasm to learn new things.I love to explore nature.",
         instagram: "http://instagram.com/hemant_._26",
