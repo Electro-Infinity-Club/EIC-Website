@@ -116,14 +116,14 @@ export const TeamData = [
     },
     {
         id: 10,
-        fname: "Shravani",
-        lname: "Kadam",
+        fname: "Akshada",
+        lname: "Phadatare",
         post: "Social Media Head",
-        image: shravani,
-        bio: "I'm a third year undergraduate student. I'm optimistic, self motivated person. I believe in team work I like to paint , listen to the song in my free time .",
-        instagram: "https://instagram.com/shravani5808?igshid=YmMyMTA2M2Y=",
-        linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
-        email: "shravanikadam1576@gmail.com"
+        image: akshada,
+        bio: "I am second year student of Electronic and Telecommunications,I love to learn new things of electronics and love to dance .",
+        instagram: "https://instagram.com/1609_akshada_phadatare?igshid=YmMyMTA2M2Y=",
+        linkedin: "https://www.linkedin.com/in/akshada-phadatare-422630231",
+        email: "akshadaphadatare49@gmail.com"
     },
     {
         id: 11,
@@ -151,14 +151,14 @@ export const TeamData = [
     },
     {
         id: 13,
-        fname: "Akshada",
-        lname: "Phadatare",
+        fname: "Shravani",
+        lname: "Kadam",
         post: "Student Co-ordinator",
-        image: akshada,
-        bio: "I am second year student of Electronic and Telecommunications,I love to learn new things of electronics and love to dance .",
-        instagram: "https://instagram.com/1609_akshada_phadatare?igshid=YmMyMTA2M2Y=",
-        linkedin: "https://www.linkedin.com/in/akshada-phadatare-422630231",
-        email: "akshadaphadatare49@gmail.com"
+        image: shravani,
+        bio: "I'm a third year undergraduate student. I'm optimistic, self motivated person. I believe in team work I like to paint , listen to the song in my free time .",
+        instagram: "https://instagram.com/shravani5808?igshid=YmMyMTA2M2Y=",
+        linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
+        email: "shravanikadam1576@gmail.com"
     },
     {
         id: 14,
