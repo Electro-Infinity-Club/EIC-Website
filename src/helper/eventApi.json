@@ -1,7 +1,13 @@
 {
   "upcoming": [
     {
-      "id": 0
+      "id": 10,
+      "img": "/events/event-10.png",
+      "title": "Webinar on Raspberry PI by Mr.Mallesh",
+      "date": "January 07,2023",
+      "info": "Idea on how to build pbl & mini projects using Raspberry Pi .Learn about Raspberry pi and its applications in the  industry . .",
+      "link": "https://forms.gle/NXLEgd192GD24oyj8",
+      "open": true
     }
   ],
   "past": [
