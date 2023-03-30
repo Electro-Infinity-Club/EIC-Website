@@ -1,22 +1,26 @@
 {
   "upcoming": [
     {
+      "id": 0
+
+    }
+  ],
+  "past": [
+    {
       "id": 11,
       "img": "/events/event-11.png",
       "title": "PCB Workshop By Homraj M.Reddy",
       "date": "February 02,2023",
       "info": "Learn how to design PCB. Learn about PCB and its application in the industry. Hand-on PCB designing.",
-      "link": "https://forms.gle/W7MCDj6WY68hnFKP8",
-      "open": true
-    }
-  ],
-  "past": [
+      "link": "",
+      "open": false
+    },
     {
       "id": 10,
       "img": "/events/event-10.png",
       "title": "Webinar on Raspberry PI by Mr.Mallesh",
       "date": "January 07,2023",
-      "info": "Idea on how to build pbl & mini projects using Raspberry Pi .Learn about Raspberry pi and its applications in the  industry  .",
+      "info": "Idea on how to build pbl & mini projects using Raspberry Pi .Learn about Raspberry pi and its applications in the  industry.",
       "link": "",
       "open": false
     },
