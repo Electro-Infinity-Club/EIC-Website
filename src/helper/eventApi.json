@@ -1,7 +1,13 @@
 {
   "upcoming": [
     {
-      "id": 0
+      "id": 1,
+      "img": "/events/event-12.jpg",
+      "title": "ELECTRO ESSENTIALS 3.0",
+      "date": "May 05,2023",
+      "info": "EIC has organised a event Electro Essentials 3.0 .This event is about Basic Electronics Components and Hands-on exprience of Arduino UNO and Mini Project .",
+      "link": "https://forms.gle/wGfvjX6CcXMGsiis8",
+      "open": true
 
     }
   ],
