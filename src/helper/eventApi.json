@@ -1,17 +1,28 @@
 {
   "upcoming": [
+    
     {
-      "id": 1,
-      "img": "/events/event-12.jpg",
-      "title": "ELECTRO ESSENTIALS 3.0",
-      "date": "May 05,2023",
-      "info": "EIC has organised a event Electro Essentials 3.0 .This event is about Basic Electronics Components and Hands-on exprience of Arduino UNO and Mini Project .",
-      "link": "https://forms.gle/wGfvjX6CcXMGsiis8",
+      "id": 2,
+      "img": "/events/event-13.jpg",
+      "title": "RECRUITMENT",
+      "date": "Last date : May 11, 2023",
+      "info": "EIC is recruiting new core committee for the year 2023-24 .Those who are interested in being a part of EIC core committee 2023-24 , kindly register here",
+      "link": "https://forms.gle/3hhietzFWRxJjLbN9",
       "open": true
 
     }
   ],
   "past": [
+    {
+      "id": 12,
+      "img": "/events/event-12.jpg",
+      "title": "ELECTRO ESSENTIALS 3.0",
+      "date": "May 05,2023",
+      "info": "EIC has organised a event Electro Essentials 3.0 .This event is about Basic Electronics Components and Hands-on exprience of Arduino UNO and Mini Project .",
+      "link": "",
+      "open": false
+
+    },
     {
       "id": 11,
       "img": "/events/event-11.png",
