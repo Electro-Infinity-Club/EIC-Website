@@ -36,11 +36,11 @@ const FooterSectionB = () => {
           <p>
             Email:{" "}
             <a
-              href="mailto:electroinfinity@gmail.com"
+              href="mailto:electroinfinityclub@gmail.com"
               className="hover:underline"
               rel="noopener noreferrer"
             >
-              electroinfinity@gmail.com
+              electroinfinityclub@gmail.com
             </a>
           </p>
 
