@@ -1,15 +1,15 @@
-import arnav from "../../assets/team-cores/old_team/arnav.webp";
-import akash from "../../assets/team-cores/old_team/akash.webp";
-import akshada from "../../assets/team-cores/old_team/akshada_old.webp";
-import disha from "../../assets/team-cores/old_team/disha.webp";
-import hemant from "../../assets/team-cores/old_team/hemant_old.webp";
-import ramsha from "../../assets/team-cores/old_team/ramsha.webp";
-import rohan from "../../assets/team-cores/old_team/rohan.webp";
-import sanvidha from "../../assets/team-cores/old_team/sanvidha.webp";
-import swapnil from "../../assets/team-cores/old_team/swapnil.webp";
-import vaishnavi from "../../assets/team-cores/old_team/vaishnavi_old.webp";
+import arnav from "../../../assets/team-cores/old_teams/old_team21/akash.webp";
+import akash from "../../../assets/team-cores/old_teams/old_team21/akash.webp";
+import akshada from "../../../assets/team-cores/old_teams/old_team21/akash.webp";
+import disha from "../../../assets/team-cores/old_teams/old_team21/disha.webp";
+import hemant from "../../../assets/team-cores/old_teams/old_team21/hemant_old.webp";
+import ramsha from "../../../assets/team-cores/old_teams/old_team21/ramsha.webp";
+import rohan from "../../../assets/team-cores/old_teams/old_team21/rohan.webp";
+import sanvidha from "../../../assets/team-cores/old_teams/old_team21/sanvidha.webp";
+import swapnil from "../../../assets/team-cores/old_teams/old_team21/swapnil.webp";
+import vaishnavi from "../../../assets/team-cores/old_teams/old_team21/vaishnavi_old.webp";
 
-export const oldTeamData =
+export const oldTeamData21 =
 {
   "2021-22":[
     {
