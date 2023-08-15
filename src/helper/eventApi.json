@@ -1,21 +1,11 @@
 {
   "upcoming": [
-    
     {
-      "id" : 0
-    }
+      
+        "id": 0
+      }
   ],
   "past": [
-    {
-      "id": 13,
-      "img": "/events/event-13.jpg",
-      "title": "RECRUITMENT",
-      "date": "Last date : May 11, 2023",
-      "info": "EIC is recruiting new core committee for the year 2023-24 .Those who are interested in being a part of EIC core committee 2023-24 , kindly register here",
-      "link": "",
-      "open": false
-
-    },
     {
       "id": 12,
       "img": "/events/event-12.jpg",
