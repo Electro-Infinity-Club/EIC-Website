@@ -45,7 +45,7 @@ const FooterSectionB = () => {
           </p>
 
           <div className="w-full border-b pb-3" aria-hidden="true"></div>
-          <p className="pt-2">Location: M.E.S College of Engineering,Pune</p>
+          <p className="pt-2">Location: M.E.S. Wadia College of Engineering,Pune</p>
           <div className="w-full border-b pb-3" aria-hidden="true"></div>
         </div>
       </div>

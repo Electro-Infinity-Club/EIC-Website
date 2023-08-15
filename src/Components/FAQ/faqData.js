@@ -2,7 +2,7 @@ export const faqs = [
   {
     id: 1,
     question: "What is Electro Infinity Club ?",
-    answer: "It is a Student's Club formed under E&TC Department of Modern Education Society's College of Engineering, Pune, where students carry out diverse activities.",
+    answer: "It is a Student's Club formed under E&TC Department of Modern Education Society's Wadia College of Engineering, Pune, where students carry out diverse activities.",
   },
   {
     id: 2,
