@@ -43,7 +43,7 @@ export const TeamData = [
         lname: "Tawde",
         post: "Treasurer",
         image: kedarnath,
-        bio: "A hardworking enthusiast on his way to explore different dimensions of technical, non-technical, and life things!",
+        bio: "A hardworking enthusiast on his way to explore different dimensions of technical, non-technical, and life things.",
         instagram: "https://www.instagram.com/kedar._tawde/",
         linkedin: "https://www.linkedin.com/in/kedar-tawde-527839231",
         email: "tawdekedar@gmail.com"
@@ -65,7 +65,7 @@ export const TeamData = [
         lname: "Bargaje",
         post: "Publicity / Marketing",
         image: prathamesh,
-        bio: "I am a third-year Electronics and Telecommunications Engineering (ENTC) student who has embarked on a unique journey of both academic pursuits and sharing knowledge through teaching.",
+        bio: "I am a (ENTC) student who has embarked on a unique journey of both academic pursuits and sharing knowledge through teaching.",
         instagram: "https://www.instagram.com/prathamesh_bargaje/",
         linkedin: "https://www.linkedin.com/in/prathamesh-bargaje-503001232",
         email: "shubhmalkar@gmail.com"
@@ -76,7 +76,7 @@ export const TeamData = [
         lname: "Deokar",
         post: "Publicity / Marketing",
         image: sakshi,
-        bio: "I'm from TE-E&TC-A. I am good at convincing others of my thoughts. I am a hardworking, honest, and confident girl. Also, I can present my work in a good manner and always try to give my best.",
+        bio: "I'm from TE-E&TC-A. I am good at convincing others of my thoughts. I am a hardworking, honest, and confident girl. Also, I can present my work in a good manner.",
         instagram: "https://www.instagram.com/sakshideokar19/",
         linkedin: "https://www.linkedin.com/in/sakshi-deokar-987b30231",
         email: "bargajeprathamesh@gmail.com"
@@ -98,7 +98,7 @@ export const TeamData = [
         lname: "Hole",
         post: "Event Head",
         image: kartik,
-        bio: "I'm from second-year ENTC student. I have good communication skills and a creative and artistic type of thinking. I have various hobbies like drawing, singing, writing poems, and playing cricket.",
+        bio: "I'm from second-year ENTC student. I have good communication skills and a creative and artistic type of thinking. I like drawing, singing, writing poems, and playing cricket.",
         instagram: "https://www.instagram.com/_alterego14_/",
         linkedin: "https://www.linkedin.com/in/kartik-hole-4420a7287/",
         email: "kartikhole2@gmail.com"
@@ -153,7 +153,7 @@ export const TeamData = [
         lname: "Mirkhalkar",
         post: "Student Co-ordinator (ENTC & AR)",
         image: shraddha,
-        bio: "I'm a second-year undergraduate student in the ENTC department. I am passionate about electronics. I find my interest in artistic expression and travelling",
+        bio: "I'm a second-year student in the ENTC department. I am passionate about electronics. I find my interest in artistic expression and travelling.",
         instagram: "",
         linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
         email: "shravanikadam1576@gmail.com"
@@ -165,7 +165,7 @@ export const TeamData = [
         lname: "Raskar",
         post: "Student Co-ordinator (Comp & AR)",
         image: shreed,
-        bio: "I am a second-year student with an interest in coding and web development. Let's work together to create lasting memories and a vibrant learning atmosphere!",
+        bio: "I am a second-year student with an interest in coding and web development. Works to create lasting memories.",
         instagram: "https://www.instagram.com/shreed_95/",
         linkedin: "https://www.linkedin.com/in/shraddha-mirkhalkar-018182285",
         email: "mirkhalkarshraddha22@gmail.com"
