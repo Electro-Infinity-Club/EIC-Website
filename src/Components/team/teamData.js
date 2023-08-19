@@ -68,7 +68,7 @@ export const TeamData = [
         bio: "I am a (ENTC) student who has embarked on a unique journey of both academic pursuits and sharing knowledge through teaching.",
         instagram: "https://www.instagram.com/prathamesh_bargaje/",
         linkedin: "https://www.linkedin.com/in/prathamesh-bargaje-503001232",
-        email: "shubhmalkar@gmail.com"
+        email: "bargajeprathamesh@gmail.com"
     },
     {
         id: 6,
@@ -79,7 +79,7 @@ export const TeamData = [
         bio: "I'm from TE-E&TC-A. I am good at convincing others of my thoughts. I am a hardworking, honest, and confident girl. Also, I can present my work in a good manner.",
         instagram: "https://www.instagram.com/sakshideokar19/",
         linkedin: "https://www.linkedin.com/in/sakshi-deokar-987b30231",
-        email: "bargajeprathamesh@gmail.com"
+        email: "sakshideokar19012003@gmail.com"
     },
     {
         id: 7,
@@ -98,7 +98,7 @@ export const TeamData = [
         lname: "Hole",
         post: "Event Head",
         image: kartik,
-        bio: "I'm from second-year ENTC student. I have good communication skills and a creative and artistic type of thinking. I like drawing, singing, writing poems, and playing cricket.",
+        bio: "I'm a SE ENTC student. I have good communication skills and a creative and artistic type of thinking. I like drawing, singing, writing poems, and playing cricket.",
         instagram: "https://www.instagram.com/_alterego14_/",
         linkedin: "https://www.linkedin.com/in/kartik-hole-4420a7287/",
         email: "kartikhole2@gmail.com"
@@ -120,7 +120,7 @@ export const TeamData = [
         lname: "Metkar",
         post: "Graphics Designer",
         image: ninad,
-        bio: "I am SE ENTC student and a huge aspirant in web development and robotics, and my skills are graphic design and App/Web development.",
+        bio: "I am SE A&R student and a huge aspirant in web development and robotics, and my skills are graphic design and App/Web development.",
         instagram: "https://www.instagram.com/ninad_metkar/",
         linkedin: "https://www.linkedin.com/in/ninadmetkar171203",
         email: "ninadmetkar.17@gmail.com"
@@ -142,7 +142,7 @@ export const TeamData = [
         lname: "Gharge",
         post: "Social Media Head ",
         image: saniya,
-        bio: "I am a second-year EnTC student. I have an optimistic and confident attitude. I like to interact with more people. I also love nature and trekking.",
+        bio: "I am a second-year ENTC student. I have an optimistic and confident attitude. I like to interact with more people. I also love nature and trekking.",
         instagram: "https://www.instagram.com/saaniiiyaaaaaaa/",
         linkedin: "https://www.linkedin.com/in/saniya-gharge-2aa317287",
         email: "saniyagharge1407@gmail.com"
@@ -153,10 +153,10 @@ export const TeamData = [
         lname: "Mirkhalkar",
         post: "Student Co-ordinator (ENTC & AR)",
         image: shraddha,
-        bio: "I'm a second-year student in the ENTC department. I am passionate about electronics. I find my interest in artistic expression and travelling.",
+        bio: "I'm a SE ENTC student. I am passionate about electronics. I find my interest in artistic expression and travelling.",
         instagram: "",
-        linkedin: "https://www.linkedin.com/in/shravani-kadam-47a4b0213",
-        email: "shravanikadam1576@gmail.com"
+        linkedin: "https://www.linkedin.com/in/shraddha-mirkhalkar-018182285/",
+        email: "mirkhalkarshraddha22@gmail.com"
     },
     
     {
@@ -165,10 +165,10 @@ export const TeamData = [
         lname: "Raskar",
         post: "Student Co-ordinator (Comp & AR)",
         image: shreed,
-        bio: "I am a second-year student with an interest in coding and web development. Works to create lasting memories.",
+        bio: "I am SE COMP student with an interest in coding and web development. I will try my best to create a vibrant work environment.",
         instagram: "https://www.instagram.com/shreed_95/",
-        linkedin: "https://www.linkedin.com/in/shraddha-mirkhalkar-018182285",
-        email: "mirkhalkarshraddha22@gmail.com"
+        linkedin: "https://www.linkedin.com/in/shreed-raskar-646b20254",
+        email: "shreedraskar48@gmail.com"
     },
     {
         id: 15,
