@@ -176,9 +176,14 @@ nav {
   }
 
   .hero {   
+    height: 85vh;
     background-image: url("./Components/HeroSection/heroMob.webp");
     background-repeat: no-repeat;
     background-size: contain;
+  }
+
+  .about-slider {
+    width: 75%;
   }
 
   .faq-section {
