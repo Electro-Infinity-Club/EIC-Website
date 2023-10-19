@@ -7,7 +7,6 @@ import sakshi from "../../assets/team-cores/sakshi.webp";
 import samruddhi from "../../assets/team-cores/samruddhi.webp";
 import kartik from "../../assets/team-cores/kartik.webp";
 import vishnu from "../../assets/team-cores/vishnu.webp";
-import ninad from "../../assets/team-cores/ninad.webp";
 import akshada from "../../assets/team-cores/akshada.webp";
 import saniya from "../../assets/team-cores/saniya.webp";
 import shraddha from "../../assets/team-cores/shraddha.webp";
@@ -116,17 +115,6 @@ export const TeamData = [
     },
     {
         id: 10,
-        fname: "Ninad",
-        lname: "Metkar",
-        post: "Graphics Designer",
-        image: ninad,
-        bio: "I am SE A&R student and a huge aspirant in web development and robotics, and my skills are graphic design and App/Web development.",
-        instagram: "https://www.instagram.com/ninad_metkar/",
-        linkedin: "https://www.linkedin.com/in/ninadmetkar171203",
-        email: "ninadmetkar.17@gmail.com"
-    },
-    {
-        id: 11,
         fname: "Akshada",
         lname: "Phadatare",
         post: "Social Media Head",
@@ -137,7 +125,7 @@ export const TeamData = [
         email: "akshadaphadatare49@gmail.com"
     },
     {
-        id: 12,
+        id: 11,
         fname: "Saniya",
         lname: "Gharge",
         post: "Social Media Head ",
@@ -148,7 +136,7 @@ export const TeamData = [
         email: "saniyagharge1407@gmail.com"
     },
     {
-        id: 13,
+        id: 12,
         fname: "Shraddha",
         lname: "Mirkhalkar",
         post: "Student Co-ordinator (ENTC & AR)",
@@ -160,7 +148,7 @@ export const TeamData = [
     },
     
     {
-        id: 14,
+        id: 13,
         fname: "Shreed",
         lname: "Raskar",
         post: "Student Co-ordinator (Comp & AR)",
@@ -171,12 +159,12 @@ export const TeamData = [
         email: "shreedraskar48@gmail.com"
     },
     {
-        id: 15,
+        id: 14,
         fname: "Pavan",
         lname: "Kodlinge",
         post: "Student Co-ordinator (AR & Mech)",
         image: pavan,
-        bio: "I am a second-year student and passionate about my work. I love what I do, and I am trying to give my best for my work.",
+        bio: "I am a SE ENTC student and passionate about my work. I love what I do, and I am trying to give my best for my work.",
         instagram: "",
         linkedin: "https://www.linkedin.com/in/pavan-kodlinge-7a10bb287",
         email: "pavankodlinge2@gmail.com"
