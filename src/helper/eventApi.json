@@ -1,17 +1,20 @@
 {
   "upcoming": [
     {
-      "id": 1,
-      "img": "/events/event-0.png",
-      "title": "IOT SYNERGIA",
-      "date": "14th, 15th, 21st Oct 2023",
-      "info": "Electro Infinity Club presents IOT SYNERGIA which contains Basic to Advance IOT Workshop & Hands on Raspberry PI.",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdHJ4w_0EGXrxoyQ9PAJI_NnzROW0S1-cAtJH0BqLiS8a3nYg/viewform",
-      "open": true
-
+      "id": 0
     }
   ],
   "past": [
+    {
+      "id": 13,
+      "img": "/events/event-13.png",
+      "title": "IOT SYNERGIA",
+      "date": "14th, 15th, 21st Oct 2023",
+      "info": "Electro Infinity Club presents IOT SYNERGIA which contains Basic to Advance IOT Workshop & Hands on Raspberry PI.",
+      "link": "",
+      "open": false
+
+    },
     {
       "id": 12,
       "img": "/events/event-12.jpg",
