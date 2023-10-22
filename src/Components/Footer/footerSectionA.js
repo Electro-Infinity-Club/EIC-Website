@@ -24,7 +24,7 @@ const FooterSectionA = () => {
       </div>
       
       <div className="flex flex-col gap-1 items-center w-16 h-12 text-white">   
-        <a href="https://instagram.com/mescoe_eic?utm_medium=copy_link" 
+        <a href="https://www.instagram.com/meswcoe_eic/" 
           target="_blank" rel="noopener noreferrer"   
           className="social border border-box p-1 text-lg"><FaInstagram /></a> 
         <p>Instagram</p>
