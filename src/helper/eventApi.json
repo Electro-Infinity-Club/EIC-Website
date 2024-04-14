@@ -6,6 +6,16 @@
   ],
   "past": [
     {
+      "id": 14,
+      "img": "/events/event-14.png",
+      "title": "Fun Fair 2k24",
+      "date": "February 05,2024",
+      "info": "EIC presents Fun Fair 2k24, where your focus shines bright as you navigate the LED Memory, Buzz Wire, forging your path to triumph in the captivating Energy Path Puzzle game!",
+      "link": "",
+      "open": false
+
+    },
+    {
       "id": 13,
       "img": "/events/event-13.png",
       "title": "IOT SYNERGIA",
@@ -20,7 +30,7 @@
       "img": "/events/event-12.jpg",
       "title": "ELECTRO ESSENTIALS 3.0",
       "date": "May 05,2023",
-      "info": "EIC has organised a event Electro Essentials 3.0 .This event is about Basic Electronics Components and Hands-on exprience of Arduino UNO and Mini Project .",
+      "info": "EIC has organised a event Electro Essentials 3.0. This event is about Basic Electronics Components and Hands-on exprience of Arduino UNO and Mini Project .",
       "link": "",
       "open": false
 
@@ -39,7 +49,7 @@
       "img": "/events/event-10.png",
       "title": "Webinar on Raspberry PI by Mr.Mallesh",
       "date": "January 07,2023",
-      "info": "Idea on how to build pbl & mini projects using Raspberry Pi .Learn about Raspberry pi and its applications in the  industry.",
+      "info": "Idea on how to build pbl & mini projects using Raspberry Pi. Learn about Raspberry pi and its applications in the  industry.",
       "link": "",
       "open": false
     },
