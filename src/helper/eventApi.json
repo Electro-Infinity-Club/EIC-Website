@@ -1,7 +1,13 @@
 {
   "upcoming": [
     {
-      "id": 0
+      "id": 14,
+      "img": "/events/event-15.png",
+      "title": "IP Addressing",
+      "date": "August 10,2024 ",
+      "info": "Electro Infinity Club presents IP Addressing which contains a thorough informative session about Networking and IP Addressing.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdk4SRPUmBUrpzYEx0c652DpvwtvO3O8RJa0rrtrAHKQO_oUA/viewform",
+      "open": true
     }
   ],
   "past": [
@@ -9,7 +15,7 @@
       "id": 14,
       "img": "/events/event-14.png",
       "title": "Fun Fair 2k24",
-      "date": "February 05,2024",
+      "date": "February 05,2024 ",
       "info": "EIC presents Fun Fair 2k24, where your focus shines bright as you navigate the LED Memory, Buzz Wire, forging your path to triumph in the captivating Energy Path Puzzle game!",
       "link": "",
       "open": false
