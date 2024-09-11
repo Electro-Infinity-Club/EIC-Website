@@ -1,16 +1,19 @@
 {
   "upcoming": [
     {
-      "id": 14,
+      "id": 0
+    }
+  ],
+  "past": [
+    {
+      "id": 15,
       "img": "/events/event-15.png",
       "title": "IP Addressing",
       "date": "August 10,2024 ",
       "info": "Electro Infinity Club presents IP Addressing which contains a thorough informative session about Networking and IP Addressing.",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdk4SRPUmBUrpzYEx0c652DpvwtvO3O8RJa0rrtrAHKQO_oUA/viewform",
-      "open": true
-    }
-  ],
-  "past": [
+      "link": "",
+      "open": false
+    },
     {
       "id": 14,
       "img": "/events/event-14.png",
