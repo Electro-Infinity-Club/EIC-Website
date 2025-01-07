@@ -1,4 +1,6 @@
 module.exports = {
+
+  
   style: {
     postcss: {
       plugins: [
@@ -7,4 +9,9 @@ module.exports = {
       ],
     },
   },
-}
+  mode: 'development',
+  //adding server
+  devServer: {
+    port: 8001,
+  },
+};
