@@ -33,7 +33,7 @@ const TeamMembers = ({
               <h1>{lname}</h1>
             </div>
             <p className="text-club-800 text-lg italic">{post}</p>
-            <p className="text-club-700 text-base font-normal">{bio}</p>
+            <p className="text-club-700 text-base font-normal leading-snug">{bio}</p>
             <div className="w-full flex justify-center gap-6 text-xl absolute inset-x-0 bottom-5">
               <a
                 href={"mailto:" + email}

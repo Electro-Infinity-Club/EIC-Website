@@ -8,20 +8,23 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "clubwebsite": "file:",
+    "create-react-app": "^5.0.1",
     "emailjs-com": "^3.2.0",
     "joi-browser": "^13.4.0",
+    "next-scripts": "^0.3.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "react-slick": "^0.28.1",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
+    "start": "craco --openssl-legacy-provider start",
+    "build": "craco --openssl-legacy-provider build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
@@ -47,5 +50,9 @@
     "autoprefixer": "^9.8.8",
     "postcss": "^8.2.13",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
-  }
+  },
+  "description": "[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbl0PVgQHtLh1iLpronm8tg) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/electro-infinity-club) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mescoe_eic?utm_medium=copy_link) [![GMail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:electroinfinity@gmail.com)",
+  "main": "craco.config.js",
+  "author": "",
+  "license": "ISC"
 }

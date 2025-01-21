@@ -71,7 +71,7 @@ a {
   background-image: url("./Components/HeroSection/heroBG.webp");
   background-size: cover;
   background-position: center;
-  background-color: #001824;
+  background-color: #152039;
 }
 
 .subHeroSection {
@@ -175,10 +175,15 @@ nav {
     box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.2), 0px -8px 16px 0px rgba(72, 127, 255, 0.2);
   }
 
-  .hero {
+  .hero {   
+    height: 85vh;
     background-image: url("./Components/HeroSection/heroMob.webp");
     background-repeat: no-repeat;
     background-size: contain;
+  }
+
+  .about-slider {
+    width: 75%;
   }
 
   .faq-section {
